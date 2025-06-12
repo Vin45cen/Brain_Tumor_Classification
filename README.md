@@ -66,7 +66,8 @@ Input: 224x224 RGB Image
 
 | Akurasi Training dan Validasi    | Loss Training dan Validasi |
 | -------------------------------- | -------------------------- |
-| ![Accuracy](assets/accuracy.png) | ![Loss](assets/loss.png)   |
+| ![image](https://github.com/user-attachments/assets/dbb2a4b5-0302-4ed7-aa03-6c589c335df8)
+ | ![Loss](assets/loss.png)   |
 
 > Grafik menunjukkan peningkatan akurasi dan penurunan loss selama proses pelatihan.
 

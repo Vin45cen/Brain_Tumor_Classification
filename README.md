@@ -64,10 +64,13 @@ Input: 224x224 RGB Image
 
 ### 🎯 Grafik Akurasi dan Loss
 
-| Akurasi Training dan Validasi    | Loss Training dan Validasi |
-| -------------------------------- | -------------------------- |
-| ![image](https://github.com/user-attachments/assets/dbb2a4b5-0302-4ed7-aa03-6c589c335df8)
- | ![Loss](assets/loss.png)   |
+Grafik accuracy
+![image](https://github.com/user-attachments/assets/88be8022-bb93-4455-a9ed-f781a147299c)
+
+
+Grafik loss
+![image](https://github.com/user-attachments/assets/4b6e1a1c-c146-45c4-a7c2-05e538755416)
+
 
 > Grafik menunjukkan peningkatan akurasi dan penurunan loss selama proses pelatihan.
 
@@ -75,15 +78,5 @@ Input: 224x224 RGB Image
 
 ## 🧪 Contoh Prediksi
 
-### Input:
-
-![Input MRI](assets/test_image.png)
-
-### Output:
-
-```
-Tumor Detected ✅
-```
-
----
+![image](https://github.com/user-attachments/assets/b7767023-e3e1-41dd-919c-e69d6d0dc1c9)
 
